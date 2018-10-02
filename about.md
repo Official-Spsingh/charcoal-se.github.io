@@ -6,7 +6,7 @@ and remove it as quickly as possible.
 We do this with the aid of some software that we've written, called
 [SmokeDetector](https://github.com/Charcoal-SE/SmokeDetector).
 
-Even if you are unfamiliar with the Stack Exchange network,
+Even if you are not familiar with the Stack Exchange network,
 you may have heard of or even participated on its flagship site for programming questions,
 [Stack Overflow](//stackoverflow.com/).
 The rest of the network contains hundreds of similar sites about various topics, including
